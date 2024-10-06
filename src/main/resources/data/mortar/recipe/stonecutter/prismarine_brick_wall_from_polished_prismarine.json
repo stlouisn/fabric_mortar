@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "mortar:polished_prismarine"
+  },
+  "result": {
+    "count": 1,
+    "id": "mortar:prismarine_brick_wall"
+  }
+}

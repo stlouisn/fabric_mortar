@@ -1,0 +1,146 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": [
+      {
+        "text": "Mortar Datapack"
+      }
+    ]
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "minecraft",
+        "path": "recipe/andesite.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/chiseled_deepslate_from_cobbled_deepslate_stonecutting.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/chiseled_stone_bricks.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/chiseled_stone_bricks_from_stone_bricks_stonecutting.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/deepslate_bricks_from_cobbled_deepslate_stonecutting.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/deepslate_brick_slab_from_cobbled_deepslate_stonecutting.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/deepslate_brick_wall_from_cobbled_deepslate_stonecutting.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/deepslate_tiles_from_cobbled_deepslate_stonecutting.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/deepslate_tile_slab_from_cobbled_deepslate_stonecutting.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/deepslate_tile_wall_from_cobbled_deepslate_stonecutting.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/diorite.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/end_stone_bricks_from_end_stone_stonecutting.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/end_stone_brick_slab_from_end_stone_stonecutting.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/end_stone_brick_stairs_from_end_stone_stonecutting.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/end_stone_brick_wall_from_end_stone_stonecutting.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/granite.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/mossy_cobblestone_from_vine.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/mossy_stone_bricks_from_vine.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/polished_blackstone_bricks_from_blackstone_stonecutting.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/polished_blackstone_brick_slab_from_blackstone_stonecutting.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/polished_blackstone_brick_stairs_from_blackstone_stonecutting.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/polished_blackstone_brick_wall_from_blackstone_stonecutting.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/polished_deepslate_from_cobbled_deepslate_stonecutting.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/polished_deepslate_slab_from_cobbled_deepslate_stonecutting.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/polished_deepslate_wall_from_cobbled_deepslate_stonecutting.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/stone_bricks.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/tuff_bricks_from_tuff_stonecutting.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/tuff_brick_slab_from_tuff_stonecutting.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/tuff_brick_stairs_from_tuff_stonecutting.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/tuff_brick_wall_from_tuff_stonecutting.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:prismarine"
+  },
+  "result": {
+    "id": "mortar:polished_prismarine_stairs"
+  }
+}

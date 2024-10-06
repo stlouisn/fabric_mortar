@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "mortar:andesite_brick_slab",
+    "mortar:calcite_brick_slab",
+    "mortar:calcite_slab",
+    "mortar:deepslate_slab",
+    "mortar:diorite_brick_slab",
+    "mortar:end_stone_slab",
+    "mortar:granite_brick_slab",
+    "mortar:polished_calcite_slab",
+    "mortar:polished_end_stone_slab",
+    "mortar:polished_prismarine_slab",
+    "mortar:quartz_brick_slab"
+  ]
+}

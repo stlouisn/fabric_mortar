@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "mortar:block/cobblestone_pressure_plate"
+    },
+    "powered=true": {
+      "model": "mortar:block/cobblestone_pressure_plate_down"
+    }
+  }
+}

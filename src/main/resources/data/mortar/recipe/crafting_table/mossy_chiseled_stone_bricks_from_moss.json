@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "mortar:mossy_chiseled_stone_bricks",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:chiseled_stone_bricks"
+    },
+    {
+      "item": "minecraft:moss_block"
+    }
+  ],
+  "result": {
+    "id": "mortar:mossy_chiseled_stone_bricks"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "mortar:polished_end_stone"
+  },
+  "result": {
+    "id": "minecraft:end_stone_bricks"
+  }
+}

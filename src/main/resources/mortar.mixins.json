@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "dev.mortar.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8.5",
+  "mixins": [
+    "BlockAgeStructureProcessorMixin",
+    "ConduitBlockEntityMixin",
+    "OceanRuinGeneratorMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

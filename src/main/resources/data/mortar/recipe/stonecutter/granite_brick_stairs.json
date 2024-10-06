@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "mortar:granite_bricks"
+  },
+  "result": {
+    "id": "mortar:granite_brick_stairs"
+  }
+}

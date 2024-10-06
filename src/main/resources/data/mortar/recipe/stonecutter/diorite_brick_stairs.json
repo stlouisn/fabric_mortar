@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "mortar:diorite_bricks"
+  },
+  "result": {
+    "id": "mortar:diorite_brick_stairs"
+  }
+}

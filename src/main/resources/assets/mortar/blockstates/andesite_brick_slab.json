@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mortar:block/andesite_brick_slab"
+    },
+    "type=double": {
+      "model": "mortar:block/andesite_bricks"
+    },
+    "type=top": {
+      "model": "mortar:block/andesite_brick_slab_top"
+    }
+  }
+}

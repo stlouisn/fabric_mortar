@@ -1,0 +1,17 @@
+{
+  "tag.block.minecraft.bamboo": "Bamboo",
+  "tag.item.minecraft.bamboo": "Bamboo",
+
+  "tag.block.minecraft.wooden": "Wooden",
+  "tag.item.minecraft.wooden": "Wooden",
+
+  "tag.block.minecraft.wooden_fence_gates": "Wooden Fence Gates",
+  "tag.item.minecraft.wooden_fence_gates": "Wooden Fence Gates",
+
+  "block.minecraft.chiseled_bookshelf": "Bookcase",
+
+  "block.minecraft.chiseled_stone_bricks": "Chiseled Stone",
+  "block.minecraft.infested_chiseled_stone_bricks": "Infested Chiseled Stone",
+
+  "block.minecraft.chiseled_tuff_bricks": "Tuff Pillar"
+}
